@@ -18,15 +18,19 @@ Fake mirrors for avatars アバター用ミラーっぽいやつ
 
 ## 使い方
 
-### 基本
+### アバターに配置する
 
-Packages/Mirror4Avatarの中にある好きなプレハブをアバターに突っ込む。
+1. Packages/Mirror4Avatarの中にある好きなプレハブをアバターに突っ込みます。
 
-一枚鏡（MirrorCamera）と四面鏡(MirrorCameras)、ワールド固定(WorldPlacer)あるなしがあります。
+   一枚鏡（MirrorCamera）と四面鏡(MirrorCameras)、ワールド固定(WorldPlacer)あるなしがあります。
+
+2. Prefabの中にあるViewPointオブジェクトをViewPointあたりに置いて下さい。四面鏡(MirrorCameras)版だと4つあるので全部一緒の場所に置いて下さい。
+
+### 操作
 
 ワールド固定は鏡の中心辺りのPBを掴んで置いて下さい。
 
-鏡が自分にしか正しく見えないので、ワールド固定版は他人には表示されない設定になっています。
+鏡が自分にしか正しく見えないので、ワールド固定版付属のON/OFFは他人には表示されない設定になっています。
 
 ### 解像度
 
