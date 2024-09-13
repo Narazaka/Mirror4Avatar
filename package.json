@@ -1,0 +1,18 @@
+{
+  "name": "net.narazaka.vrchat.mirror4avatar",
+  "version": "1.0.0",
+  "displayName": "Mirror4Avatar",
+  "description": "Fake mirrors for avatars アバター用ミラーっぽいやつ",
+  "author": {
+    "name": "Narazaka",
+    "url": "https://github.com/Narazaka"
+  },
+  "license": "Zlib",
+  "type": "tool",
+  "url" : "https://github.com/Narazaka/Mirror4Avatar.git",
+  "unity": "2022.3",
+  "vpmDependencies": {
+    "nadena.dev.modular-avatar": ">=1.5.0 <2.0.0-a",
+    "com.vrchat.avatars": ">=3.7.0 <4"
+  }
+}
