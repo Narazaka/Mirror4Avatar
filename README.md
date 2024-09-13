@@ -4,6 +4,10 @@
 
 Fake mirrors for avatars アバター用ミラーっぽいやつ
 
+ミラーっぽい挙動の実装はこちらを参考にしました→[Unityで鏡を実装する方法](https://qiita.com/nkjzm/items/ccba41a6e7e5211aae95)
+
+常にアバターの方を向くのであまりワールド据え置きミラーっぽくはないかも
+
 ## インストール
 
 ### VCCによる方法
